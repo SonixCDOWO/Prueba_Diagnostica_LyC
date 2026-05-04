@@ -1,6 +1,6 @@
 # Prueba_Diagnostica_LyC
-Daniel Valenzuela
-Cedula: 28.619.852
-Seccion 1
+* Daniel Valenzuela
+* Cedula: 28.619.852
+* Lenguaje y Compiladores Seccion 1
 
-#Link de la Defensa:
+# Link de la Defensa:
