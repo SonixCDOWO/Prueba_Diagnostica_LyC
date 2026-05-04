@@ -1,3 +1,6 @@
+#2) Dado una cadena C, valide si C se encuentra en notación FEN 
+#(Forsyth-Edwards Notation), Forsyth–Edwards Notation. FEN (Wikipedia, 2025).
+
 import re # importamos la libreria para usar expresiones regulares
 
 def validar_notacion_fen():
