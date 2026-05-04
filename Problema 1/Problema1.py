@@ -1,3 +1,14 @@
+#1) Dado una cadena de expresión aritmética imprima cada componente 
+#según su clasificación
+#( NUMERO, OPERADOR, PAREN_IZQ, PAREN_DER, OPERANDO, ERROR).
+
+#Reglas:
+#NUMERO: debe ser un entero o un real con el “.”, como marcador de 
+#decimales, sin signo
+#OPERANDO: no debe tener espacios ni iniciar con un numero (VALOR, 
+#A, B, CONT)
+#OPERADOR: + - * /
+
 import re # importamos la libreria de expresiones regulares
 
 def analizar_expresion():
