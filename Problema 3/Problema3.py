@@ -2,13 +2,7 @@
 #de collatz en enteros de un intervalo [p,q]. La conjetura indica 
 #que para cualquier número entero positivo n se aplica:
 
-#Si n es par → n = n / 2, Si n es impar → n = 3n + 1,
-
-#Ejemplo n=6: 6 → 3 → 10 → 5 → 16 → 8 → 4 → 2 → 1
-#        n=7: 7 → 22 → 11 → 34 → 17 → 52 → 26 → 13 → 40 → 20...
-#        n=8: 8 → 4 → 2 → 1
-#Demostrado...
-
+#Si n es par → n = n / 2, Si n es impar → n = 3n + 1.
 #Regla q ≥ 100p para poder aplicar la demostración.
 
 def verificar_collatz():
